@@ -20,6 +20,7 @@
 @property (nonatomic, strong) UILabel *titleLabel;
 
 - (void)triggerRefresh;
+- (void)startAnimating;
 - (void)stopAnimating;
 
 @end
